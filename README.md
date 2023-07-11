@@ -1,2 +1,1 @@
-# Personal-Projects
-The CS ship has sailed.
+Server and client-side applications to communicate and store data on local storage networks. Can activate scripts using general prompts from the server terminal and client-side terminal. Can be accessed using Python on the client side and is written using NodeJS. Also has future capabilities to store data in non-volatile storage files so that data structures in the server can be stored and accessed. 
